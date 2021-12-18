@@ -49,6 +49,7 @@ module.exports = {
     alias: Object.assign({
       'react-native$': 'react-native-web',
       '@storybook/react-native': '@storybook/react',
+      'react-native-svg': 'react-native-svg-web',
     }),
   },
 };
